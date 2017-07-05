@@ -1,3 +1,4 @@
 # ignore case
 *.zip
 *.tar
+node_modules/*
